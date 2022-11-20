@@ -20,6 +20,6 @@ One of the most common tasks for front-end and junior developers is to take exis
 
 * The following image demonstrates the web application's appearance
 
-![screenshot.](./assets/Images/Screen Shot 2022-11-17 at 6.09.55 PM.png)
+![screenshot.](./Images/Screen%20Shot%202022-11-17%20at%207.08.48%20PM.png)
 
 ## Deployed link
