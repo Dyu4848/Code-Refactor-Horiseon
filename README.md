@@ -24,3 +24,6 @@ One of the most common tasks for front-end and junior developers is to take exis
 
 ## Deployed link
 
+* [Horiseon Website](https://dyu4848.github.io/HW-Challenge-1/)
+
+* [Github URL](https://github.com/Dyu4848/Code-Refactor-Horiseon)
